@@ -1,0 +1,47 @@
+{
+  "configurations" : [
+    {
+      "id" : "B859E67D-9680-4C3E-8F9F-785F60464767",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "name" : "MotionBalance iOS",
+          "reference" : "container:MotionBalance.xcodeproj"
+        },
+        {
+          "name" : "MotionBalance macOS",
+          "reference" : "container:MotionBalance.xcodeproj"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:MotionBalance.xcodeproj",
+      "identifier" : "MotionBalance iOS",
+      "name" : "MotionBalance iOS"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MotionBalance.xcodeproj",
+        "identifier" : "MotionBalanceTests",
+        "name" : "MotionBalanceTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:MotionBalance.xcodeproj",
+        "identifier" : "MotionBalanceUITests",
+        "name" : "MotionBalanceUITests"
+      }
+    }
+  ],
+  "version" : 1
+} 

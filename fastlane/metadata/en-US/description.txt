@@ -1,0 +1,16 @@
+MotionBalance: Motion Sickness Reduction
+
+Reduce car sickness with real-time motion compensation. This app uses your iPhone's motion sensors to detect movement and adjusts your Mac's display to help reduce motion sickness.
+
+Features:
+• Real-time motion detection
+• Adaptive visual compensation
+• Bluetooth connectivity
+• Customizable comfort settings
+• Battery-optimized performance
+
+Requirements:
+• iPhone with motion sensors
+• Mac with Bluetooth
+• iOS 15.0 or later
+• macOS 12.0 or later 
